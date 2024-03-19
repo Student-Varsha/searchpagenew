@@ -1,0 +1,61 @@
+*
+{
+    font-size: 13px;
+    padding: 0px;
+    margin: 0px;
+    
+}
+img
+{
+
+    width:1.5vw;
+}
+.nav
+{
+    display: flex;
+    /* width:100%;
+    height:5vw;
+    background-color: pink;
+    flex-direction: row; */
+    
+}
+.navend
+{
+    display: flex;
+    justify-content: end;
+    width:100%;
+    gap:1.5vw;
+    padding:2px;
+    flex-direction: row;
+    margin-right: 25px;
+    margin-top: 30px;
+}
+.googlepic
+
+{
+    width:6vw;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+button{
+    width:4vw;
+    height:2vw;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    font-size: 1vw;
+
+}
+.setting{
+    width:1.6vw;
+    height:1.6vw;
+    margin-top: 3.5px;
+}
+
+.icon
+{
+    width:1.4vw;
+    height:1.4vw;
+    margin-top: 5px;
+    
+}
+
