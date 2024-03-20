@@ -177,7 +177,7 @@ button{
    border-bottom: 0.7px solid #70757a;
    font-size: 14px;
    /* background-color: pink; */
-   height:2.5vw;
+   height:2.5vh;
 }
 .navicon
 {
@@ -194,13 +194,13 @@ margin-left: 12vw;
 {
 display: flex;
 justify-content: center;
-width:41vw;
+width:20vh;
 }
 .naviconend
 {
 display: flex;
 justify-content: end;
-width:16vw;
+width:6vh;
 }
 
 
