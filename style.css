@@ -1,6 +1,6 @@
 *
 {
-    font-size: 13px;
+    font-size: 14px;
     padding: 0px;
     margin: 0px;
     
@@ -43,6 +43,7 @@ button{
     padding-bottom: 1px;
     padding-right: 1px;
     font-size: 1vmax;
+    font-size: 13px;
 
 }
 .setting{
@@ -58,6 +59,48 @@ button{
     margin-top: 5px;
     
 }
+
+
+.nav2
+{
+    display: flex;
+   flex-direction: row;
+   font-size: 14px;
+   font-family: Arial, Helvetica, sans-serif;
+   /* gap:1vw; */
+   /* margin-left: 12vw; */
+   color:#70757a;
+   border-bottom: 0.7px solid #70757a;
+   font-size: 14px;
+   /* background-color: pink; */
+   height:2.5vw;
+}
+.navicon
+{
+display: flex;
+margin-left: 2vw;
+}
+.navicon1
+{
+display: flex;
+margin-left: 12vw;
+}
+
+.navicontoll
+{
+display: flex;
+justify-content: center;
+width:41vw;
+}
+.naviconend
+{
+display: flex;
+justify-content: end;
+width:16vw;
+}
+
+
+
 
 @media (max-width:600px) {
 
@@ -122,6 +165,44 @@ button{
     margin-top: 5px;
     
 }
+.nav2
+{
+    display: flex;
+   flex-direction: row;
+   font-size: 14px;
+   font-family: Arial, Helvetica, sans-serif;
+   /* gap:1vw; */
+   /* margin-left: 12vw; */
+   color:#70757a;
+   border-bottom: 0.7px solid #70757a;
+   font-size: 14px;
+   /* background-color: pink; */
+   height:2.5vw;
+}
+.navicon
+{
+display: flex;
+margin-left: 2vw;
+}
+.navicon1
+{
+display: flex;
+margin-left: 12vw;
+}
+
+.navicontoll
+{
+display: flex;
+justify-content: center;
+width:41vw;
+}
+.naviconend
+{
+display: flex;
+justify-content: end;
+width:16vw;
+}
+
 
 
 }
