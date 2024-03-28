@@ -533,11 +533,11 @@ display:none;
 {
     display: flex;
     justify-content: start;
-    font-size: 14px;
+    font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
     color:#5e5e5e;
-    margin-left: 162px;
-    margin-top: 25px;
+    margin-left: 2vh;
+    margin-top: 2vh;
 }
 
 
@@ -546,14 +546,14 @@ display:none;
 
 #firsti
 {
-height:1.5vw;
-width:1.5vw;
+height:1.5vh;
+width:1.5vh;
 background-color: #ffffff;
 border-radius: 50%;
 display: flex;
 justify-content: center;
-left:10.8vw;
-top:10.5vw;
+left:10.8vh;
+top:10.5vh;
 
 
 
@@ -585,7 +585,7 @@ width:60%;
     font-family:Arial, Helvetica, sans-serif;
     position: absolute;
     left:2vh;
-    top:3vh;
+    top:10vh;
     
 }
 #a98
@@ -598,7 +598,7 @@ width:2vh;
 background-color: #ffffff;
 position: absolute;
 left:2vh;
-top:13vh;
+top:10vh;
 display: flex;
 justify-content: center;
 align-items: center;
