@@ -528,7 +528,7 @@ border-radius: 50%;
 display: flex;
 justify-content: center;
 left:10.8vh;
-top:10.5vh;
+top:11.5vh;
 
 
 
@@ -559,8 +559,8 @@ width:60%;
     font-size: 12px;
     font-family:Arial, Helvetica, sans-serif;
     position: absolute;
-    left:2vh;
-    top:10vh;
+    left:4vh;
+    top:11.5h;
     
 }
 #a98
@@ -616,6 +616,7 @@ align-items: center;
     position: absolute;
     left:2vh;
     top:19vh;
+    width:10vh;
 
 }
 b{
