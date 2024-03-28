@@ -113,7 +113,6 @@ width:16vw;
 
 
 
-
 #firsti
 {
 height:1.5vw;
@@ -229,18 +228,7 @@ b{
     border-bottom: 1px solid  rgba( 3,3,3,0.1);
 
 }
-/* #v3
-{
-    height:48px;
-    width:652px;
-    color:#202124;
-    font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
-    position: absolute;
-    left:1150px;
-    top:310px;
-background-color: crimson;
-} */
+
 #v4
 {
     height:36px;
@@ -441,11 +429,7 @@ img
 .nav
 {
     display: flex;
-    /* width:100%;
-    height:5vw;
-    background-color: pink;
-    flex-direction: row; */
-    
+   
 }
 .navend
 {
@@ -492,12 +476,11 @@ button{
    flex-direction: row;
    font-size: 14px;
    font-family: Arial, Helvetica, sans-serif;
-   /* gap:1vw; */
-   /* margin-left: 12vw; */
+   
    color:#70757a;
    border-bottom: 0.7px solid #70757a;
    font-size: 14px;
-   /* background-color: pink; */
+   
    height:2.5vh;
 }
 .navicon
@@ -526,6 +509,7 @@ width:6vh;
 .about
 {
 display:none;
+visibility: hidden;
 
 }
 
